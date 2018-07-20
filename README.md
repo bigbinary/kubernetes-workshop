@@ -27,7 +27,7 @@ In this introductory kubernetes 101 hands-on workshop you will learn about:
   TBD
 
 ## Registration link
-  TBD
+  To participate in a event register [here](https://www.townscript.com/e/k8s-workshop).
 
 ## Hosted by
 
