@@ -10,7 +10,7 @@ In this introductory kubernetes 101 hands-on workshop you will learn about:
 
   -  Introduction to kubernetes.
   -  Overview of Kubernetes service providers and self hosting k8s cluster
-  -  Understanding kubernetes internal.
+  -  Understanding kubernetes internals.
 
 * Session 2.
 
@@ -24,7 +24,9 @@ In this introductory kubernetes 101 hands-on workshop you will learn about:
   -  Introduction to ingress controllers and ingress routing.
 
 ## Pre-requisute
-  TBD
+
+  - This workshop assumes you have basic understanding of containers, docker and container images.
+  - Install tools mentioned on your machine following [this setup link](https://github.com/bigbinary/kubernetes-workshop/tree/master/setup).
 
 ## Registration link
   To participate in a event register [here](https://www.townscript.com/dashboard/e/kubernetes-bigbinary-workshop).
