@@ -1,3 +1,3 @@
-[Create pod on kubernetes](https://github.com/bigbinary/kubernetes-workshop/tree/add-pods-template-and-service/examples/pods)
+[Create pod on kubernetes](https://github.com/bigbinary/kubernetes-workshop/tree/master/examples/pods)
 
-[Create deployment, update and rollback](https://github.com/bigbinary/kubernetes-workshop/tree/add-pods-template-and-service/examples/deployment)
+[Create deployment, update and rollback](https://github.com/bigbinary/kubernetes-workshop/tree/master/examples/deployment)
