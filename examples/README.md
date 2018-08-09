@@ -1,1 +1,1 @@
-Coming soon..!
+[Create pod on kubernetes](https://github.com/bigbinary/kubernetes-workshop/tree/add-pods-template-and-service/examples/pods)
