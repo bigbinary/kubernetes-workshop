@@ -4,10 +4,6 @@ Create a daemonset using following command
 
 The --record flag will track changes made through each revision.
 
-Monitor deployment rollout status:
-
-`kubectl rollout status deployment/nginx`
-
 Get the basic details about daemonsets:
 
 `$ kubectl get daemonsets/prometheus-daemonset`
