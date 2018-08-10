@@ -1,6 +1,6 @@
 Create a daemonset using following command
 
-`$ kubectl create -f daemonset.yaml --record`
+`$ kubectl create -f daemonset.yml --record`
 
 The --record flag will track changes made through each revision.
 
